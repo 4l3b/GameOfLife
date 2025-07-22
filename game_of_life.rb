@@ -95,7 +95,7 @@ class GameOfLife
 
       print_grid
       update_grid
-      sleep 2
+      sleep 0.5
     end
   end
 
